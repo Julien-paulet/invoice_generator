@@ -1,0 +1,29 @@
+{
+    "info":{
+        "name": "John Doe",
+        "address": "32 Avenue de la République",
+        "postal_code": "73201",
+        "city": "City Les Bains",
+        "email": "john.doe@email.com",
+        "siren": "X6XXXXX5XXXXXX8XX",
+        "iban": "FR66 9856 XXXX XXXX XXXX XXXX X3X",
+        "bank": "Best Bank Ever",
+        "swift": "X1XXXX5X",
+        "customer": {
+            "name": "Sarah Connor",
+            "address": "420 South Lafayette Park Place",
+            "postal_code": "90001",
+            "city": "Los angeles"
+        }
+    },
+    "class":{
+        "CH Python Débutant Mercredi 16h":{
+            "hourlyRate":99,
+            "numberOfHours":4.5
+        },
+        "CH Python Intermédiaire Mercredi 18h":{
+            "hourlyRate":99,
+            "numberOfHours":4.5
+        }
+    }
+}
